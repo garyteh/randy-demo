@@ -10,3 +10,5 @@ pip install -r requirements.txt
 # start the server
 flask run
 ```
+Access the website by http://localhost:5000/
+
